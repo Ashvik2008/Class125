@@ -1,0 +1,11 @@
+MVC - Model View Controller
+
+View - Browser, Postman is the View (We request the source through a URL).
+
+Controller - It is the API (It will check for proper routes in API. There will be some Content under htat route. From here we will connectit to the model).
+
+Model - Buisness Logic (Here we go to logistic regression model).
+
+
+Model-View-Controller (MVC) Explained – With Legos
+#https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/
